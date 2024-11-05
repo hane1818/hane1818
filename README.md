@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 I'm Tzu-En Liu, u can call me Hane.
+
 I'm currently studying PHD, majored in Computer Science & Information Engineering.
+
 I'm interested in Natural Language Processing.
+
 My major programming language is Python.
 
 <!--
